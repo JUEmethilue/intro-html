@@ -1,4 +1,3 @@
-## Your GitHub Learning Lab Repository for Intro to HTML
 
 1. fit.edu
 2. microsoft.com
