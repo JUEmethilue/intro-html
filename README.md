@@ -8,7 +8,7 @@
 
 <img width="231" alt="Screen Shot 2021-09-03 at 4 02 24 PM" src="https://user-images.githubusercontent.com/90063189/132067925-fad6c721-1f83-45ad-b9f5-8816add77e32.png">
 
-<body { background: #e9e9e9; background-image: url('background.jpg'); background-size: cover; padding: 100px; font-family: 'Open Sans', sans-serif; color: #0; display: grid; align-items: center; grid-template-columns: 300px auto; background-repeat: no-repeat; }
+<h2>body { background: #e9e9e9; background-image: url('background.jpg'); background-size: cover; padding: 100px; font-family: 'Open Sans', sans-serif; color: #0; display: grid; align-items: center; grid-template-columns: 300px auto; background-repeat: no-repeat; }
 
 body:after { content: "Thanks to Unsplash (background image)"; position: fixed; left: 0; bottom: 0; width: 100%; padding: 10px; color: #919191; font-size: 10pt; }
 
@@ -29,4 +29,4 @@ a { color: rgb(28, 33, 104); display: inline-block; overflow: hidden; position: 
 
 @-webkit-keyframes underline-gradient { 0% { -webkit-transform: translate3d(0%, 0%, 0); transform: translate3d(0%, 0%, 0); } 100% { -webkit-transform: translate3d(-75%, 0%, 0); transform: translate3d(-75%, 0%, 0); } }
 
-@Keyframes underline-gradient { 0% { -webkit-transform: translate3d(0%, 0%, 0); transform: translate3d(0%, 0%, 0); } 100% { -webkit-transform: translate3d(-75%, 0%, 0); transform: translate3d(-75%, 0%, 0); } }>
+@Keyframes underline-gradient { 0% { -webkit-transform: translate3d(0%, 0%, 0); transform: translate3d(0%, 0%, 0); } 100% { -webkit-transform: translate3d(-75%, 0%, 0); transform: translate3d(-75%, 0%, 0); } }</h2>
